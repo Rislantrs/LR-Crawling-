@@ -29,6 +29,9 @@ Proyek ini menggunakan model baseline **Logistic Regression** dengan **TF-IDF Ve
 ---
 
 ## 📊 **3. Hasil Analisis Statistik Dataset**
+## 📉 Distribusi Sentimen Komentar
+
+<img src="Sentimen Yt/Gambar/Gambar 2.png" width="600"/>
 
 ### **Distribusi Sentimen**
 
@@ -93,6 +96,9 @@ Model dilatih menggunakan:
 ---
 
 ## 📈 **5. Evaluasi Model Sentimen (Logistic Regression)**
+## 📈 Klasifikasi Model
+
+<img src="Sentimen Yt/Gambar/gambar1.png" width="600"/>
 
 ### **Classification Report**
 
